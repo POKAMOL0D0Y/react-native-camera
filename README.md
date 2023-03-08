@@ -18,8 +18,12 @@ You can support the development of VisionCamera by [sponsoring **@mrousavy** on 
 <<<<<<< HEAD
 third
 =======
+<<<<<<< HEAD
 my third(3)
 >>>>>>> branch1
 new commits
 new commits - second
 new commits - third
+=======
+new**comits third
+>>>>>>> e126cbe3aaa250f5842c21486834700cbfb6366f
