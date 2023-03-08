@@ -22,3 +22,4 @@ my third(3)
 >>>>>>> branch1
 new commits
 new commits - second
+new commits - third
